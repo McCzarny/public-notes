@@ -11,10 +11,14 @@
             "id": "82077cf207430ae6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Opensource/ghsummary/Plan.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Plan"
             }
           }
         ]
@@ -173,8 +177,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "02d5bb3801d0d483",
+  "active": "82077cf207430ae6",
   "lastOpenFiles": [
+    "README.md",
+    "Opensource/ghsummary/Plan.md",
+    "Opensource/ghsummary",
     "Opensource/Boost-stacktrace/Windows debug test.md",
     "Opensource/selinux/Add module policy version.md",
     "Opensource/selinux",
@@ -205,13 +212,10 @@
     "Notion/Quick Note/tools/lldb core dump with symbols.md",
     "Notion/Quick Note/tools/Git push to a custom branch.md",
     "Notion/Quick Note/tools/Git move branch to a different head.md",
-    "Notion/Quick Note/tools/Git Custom commands-alias.md",
-    "Notion/Quick Note/tools/GDB.md",
     "Zrzut_ekranu_2021-10-10_o_16.27.31.png",
     "delays.mov",
     "Notion/TomTom/TT- TODO/Create debt for unused code in nk2/Untitled",
     "Notion/TomTom/TT- TODO/Create debt for unused code in nk2",
-    "Notion/TomTom/TT general/Bug triage/Untitled",
-    "Notion/TomTom/TT general/Bug triage"
+    "Notion/TomTom/TT general/Bug triage/Untitled"
   ]
 }
