@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "b1e4cafbac8286d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c8163fe32c0635f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82077cf207430ae6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d0a4a3279f351b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "01d6f23d25283aee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb1fa99264e3e327",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e2715200baf56f0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7d04ecba58992230",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "301de796456ce974",
+    "type": "split",
+    "children": [
+      {
+        "id": "54619bb202befce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "baa8f64f58ce327f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "94ee5b1b759c6fe9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f52aedc0e22aac3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d929380c811a2020",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "02d5bb3801d0d483",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "02d5bb3801d0d483",
+  "lastOpenFiles": [
+    "Opensource/Boost-stacktrace/Windows debug test.md",
+    "Opensource/selinux/Add module policy version.md",
+    "Opensource/selinux",
+    "Opensource/Boost-stacktrace/RVA PR.md",
+    "image.png",
+    "Opensource/Boost-stacktrace/RVA PR",
+    "Opensource/Boost-stacktrace/Windows debug test",
+    "Opensource/Boost-stacktrace",
+    "Opensource",
+    "Notion/Praca 2024/NordVPN.md",
+    "Notion/Praca 2024/Infosys.md",
+    "Notion/Praca 2024/Autodesk.md",
+    "Notion/Praca 2024/Adaptiq.md",
+    "Notion/Praca 2024/Altimetrik.md",
+    "Notion/Opensource/Opensource.md",
+    "Notion/Formatka/Stare meta.md",
+    "Notion/Formatka/Formatka.md",
+    "Notion/Dokumenty Iza/Inne/Untitled 2.md",
+    "Notion/Dokumenty Iza/Inne/Untitled.md",
+    "Notion/Dokumenty Iza/Inne/Przychodnia.md",
+    "Notion/Dokumenty Iza/Inne/500+.md",
+    "2025-03-22.md",
+    "Notion/Quick Note/tools/Untitled.md",
+    "Notion/Quick Note/tools/tools.md",
+    "Notion/Quick Note/tools/Qt.md",
+    "Notion/Quick Note/tools/Merge zip files.md",
+    "Notion/Quick Note/tools/Merge videos.md",
+    "Notion/Quick Note/tools/lldb core dump with symbols.md",
+    "Notion/Quick Note/tools/Git push to a custom branch.md",
+    "Notion/Quick Note/tools/Git move branch to a different head.md",
+    "Notion/Quick Note/tools/Git Custom commands-alias.md",
+    "Notion/Quick Note/tools/GDB.md",
+    "Zrzut_ekranu_2021-10-10_o_16.27.31.png",
+    "delays.mov",
+    "Notion/TomTom/TT- TODO/Create debt for unused code in nk2/Untitled",
+    "Notion/TomTom/TT- TODO/Create debt for unused code in nk2",
+    "Notion/TomTom/TT general/Bug triage/Untitled",
+    "Notion/TomTom/TT general/Bug triage"
+  ]
+}
