@@ -1,9 +1,9 @@
 Adding new flag to allow defining module version
 
-Example file: mymodule.te
+Example file: testmodule.te
 
-```shell
-module mymodule 1.0;
+```
+module testmodule 1.0;
 
 require {
 	class file {open read write};
@@ -17,13 +17,13 @@ allow httpd_t non_security_file_type:file { open read write };
 To build module:
 
 ```shell
-make -f /workspaces/refpolicy/support/Makefile.devel mymodule.pp
+make -f /workspaces/refpolicy/support/Makefile.devel testmodule.pp
 ```
 
 To check module version:
 
 ```shell
-sedismod mymodule.pp
+sedismod testmodule.pp
 ```
 
 Testing with docker:
